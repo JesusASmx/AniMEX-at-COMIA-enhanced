@@ -4,7 +4,7 @@
 # Anime Project at COMIA, enhanced results!
 
 Here you can find the code for our paper at COMIA2023 (Mexican Conference of Articial Intelligence), but with this changes:
-* Instead of using the split described on the paper (who considers the genre balancing), we consider the maximum amount of samples. Results here droped from 0.55 to 0.51/0.50 (i.e. models were unable to detect correlation)
+* Instead of using the split described on the paper (who considers the genre balancing), we consider the maximum amount of samples. Results here droped from 0.55 to 0.51/0.50 (i.e. models were unable to detect correlation). As a concequence, we decide to add TF-IDF (and the results upgraded an average of 15 points!).
 * We consider two cases: where an anime is unpopular when its score is 7 or below (called 7-binary), and where 6.62 is the thresshold of popularity (called Balanced).
 * We added TF-IDF. This is the leaderboard of all macro F1's:
 
