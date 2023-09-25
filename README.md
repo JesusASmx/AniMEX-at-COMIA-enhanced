@@ -14,3 +14,5 @@ Here you can find the code for our paper at COMIA2023 (Mexican Conference of Art
 1. **Balanced Support Vector Machine:** 0.714
 1. **Balanced Logistic Regression:** 0.709
 1. **Balanced MultiLayer Perceptron:** 0.685
+
+Conclusions: This 13-point jump is almost unreal considering the complexity of the dataset. We suspect that it is due some sort of overfitting, considering that results drop 6-7 points in the so-called "Balanced" dataset, with almost 10,000 samples, while the 7-binary dataset has around 6000 samples.
