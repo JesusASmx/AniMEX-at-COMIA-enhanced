@@ -1,4 +1,4 @@
-###### _For the ones who asked in the COMIA conference for the enhanced results, I apologize to wait so long to publicly upload the code. I delayed so long since I was thinking to include them into the next paper but, considering that I decided to scrap a new dataset for that paper, here you have the enhanced results, as promised! :)_
+###### _For the ones who asked in the COMIA conference for the enhanced results :)
 
 
 # Anime Project at COMIA, enhanced results!
