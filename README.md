@@ -15,4 +15,4 @@ Here you can find the code for our paper at COMIA2023 (Mexican Conference of Art
 1. **Balanced Logistic Regression:** 0.709
 1. **Balanced MultiLayer Perceptron:** 0.685
 
-Conclusions: This 13-point jump should not surprise everyone. Quick statistics shows that this complex phenomenom is underrepresented by our data (and, unfortunately, by any free data available), and we have the biased luck to obtain clusters separable by simplest methods such as Logistic Regression. Moreover, SVM outperforming everyone suggests that the boundaries between clusters are multilineal (if we remove some samples, we can even solve the task with a mere horizontal line).
+Conclusions: This 13-point jump should not be surprising. Quick statistics shows that this complex phenomenom is underrepresented by our data (and, unfortunately, by any free data available), and we have the biased luck to obtain clusters separable by simplest methods such as Logistic Regression. Moreover, SVM outperforming everyone suggests that the boundaries between clusters are multilineal (if we remove some samples, we can even solve the task with a mere horizontal line).
